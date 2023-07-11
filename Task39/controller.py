@@ -31,7 +31,7 @@ def main():
             sorted_data(file_tel)
         else:
             my_choice = 0
-            print('До свидания')
+            print('Досвидания')
             break
 
         
